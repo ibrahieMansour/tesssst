@@ -1,0 +1,30 @@
+#work_single_banner {
+    background-image: url('../../img/banner-bg-02.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  .related-content {
+    border-radius: 20px;
+    cursor: pointer;
+    height: 100%;
+  }
+  .project {
+    height: 80%;
+  
+  
+  }
+  banner-body{
+    color: whitesmoke !important;
+  }
+  .amr-card{
+    height: 100% !important;
+  }
+  .filter-btn{
+    color: white;
+    background-color:#393ed5f3  !important;
+  }
+  .filter-btn.active{
+    background-color: #6266ea !important;
+  }
